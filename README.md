@@ -1,3 +1,2 @@
 # ci-go
-teste
 
